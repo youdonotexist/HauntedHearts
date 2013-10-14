@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1710302844, guid: fa6ec5c6c5c0341529eea75cc2e15a31, type: 3}
+  m_Name: _ex2D_SpriteAnimationDB
+  curVersion: 1
+  spAnimClipGUIDs:
+  - 868401faaed76418b8380b3ce4e51a4c
+  - 06f8c57b9919a4079b2f737cfd129b1e
+  - 34ad6ce613d6442c9b3ff2b386772b5d
+  - 17811dff303e64dd98c65ef0e9bf1a17
+  - c11cd6b36a31a4c729852d939928e000
+  - ea0b138b7e1194143a4ae0df61360e2c
+  - 9b74206531add4314968994bef742f1b
+  - 0237684abcf834930887579f256e308b
+  - 2d76fc23937794ef1aa963c0d6d1c765
+  - 81577b89803d8428b83a3a1afa94e42e
+  guidInfos:
+  - guidAnimClip: 868401faaed76418b8380b3ce4e51a4c
+    guidTexture: 87bb0bec890a34003aded4f0ceab2e70
+  - guidAnimClip: 868401faaed76418b8380b3ce4e51a4c
+    guidTexture: d84f3f60f51244350ab0ff19af9a0f54
+  - guidAnimClip: 868401faaed76418b8380b3ce4e51a4c
+    guidTexture: f09a7d62a5d424b46a9a2fd669d8af13
+  - guidAnimClip: 868401faaed76418b8380b3ce4e51a4c
+    guidTexture: 7c07d9bf462ad48859916f2397e1eba2
+  - guidAnimClip: 06f8c57b9919a4079b2f737cfd129b1e
+    guidTexture: 1975ddf5c15f14d83894d17d068d6acc
+  - guidAnimClip: 06f8c57b9919a4079b2f737cfd129b1e
+    guidTexture: a9618cfa5a6b84cedbe56aea8af8ab8f
+  - guidAnimClip: 06f8c57b9919a4079b2f737cfd129b1e
+    guidTexture: 16a5d9807d3fa40cc8fa54e596c0f609
+  - guidAnimClip: 06f8c57b9919a4079b2f737cfd129b1e
+    guidTexture: 99fb53572d6fa4a9b8d46186dadbcc69
+  - guidAnimClip: 06f8c57b9919a4079b2f737cfd129b1e
+    guidTexture: b5a8aecbe07d749698f4ae778e635731
+  - guidAnimClip: 34ad6ce613d6442c9b3ff2b386772b5d
+    guidTexture: 77da8b30faf42490a8ee0f0ddb2eeeb6
+  - guidAnimClip: 17811dff303e64dd98c65ef0e9bf1a17
+    guidTexture: 4f5ef621e845540a1beb67b55860296e
+  - guidAnimClip: 17811dff303e64dd98c65ef0e9bf1a17
+    guidTexture: 873a38475a94c472fab3e9d2780a212d
+  - guidAnimClip: 17811dff303e64dd98c65ef0e9bf1a17
+    guidTexture: 9a9ce50846e1a4f7197065297448b6d4
+  - guidAnimClip: 17811dff303e64dd98c65ef0e9bf1a17
+    guidTexture: 0c41e902703dc47abae30388714b7bf2
+  - guidAnimClip: ea0b138b7e1194143a4ae0df61360e2c
+    guidTexture: c6a07dcbd08e14617bf8b7ca89e5c74e
+  - guidAnimClip: c11cd6b36a31a4c729852d939928e000
+    guidTexture: cd6f2792f0fea41f1b3a2cd7dd32d9ab
+  - guidAnimClip: c11cd6b36a31a4c729852d939928e000
+    guidTexture: bbc333dbdf2d043259777457d53fd7e4
+  - guidAnimClip: c11cd6b36a31a4c729852d939928e000
+    guidTexture: c2681cbda851d484691e0ca941c83597
+  - guidAnimClip: c11cd6b36a31a4c729852d939928e000
+    guidTexture: 473b44a16e168482e8561d4430ae2322
+  - guidAnimClip: c11cd6b36a31a4c729852d939928e000
+    guidTexture: 2529185e3970d4836a309601705735aa
+  - guidAnimClip: 9b74206531add4314968994bef742f1b
+    guidTexture: ce22e9b40b39a4f1d9e61913d572d483
+  - guidAnimClip: 9b74206531add4314968994bef742f1b
+    guidTexture: 307b5409b150b40ee88a85f22aa35e48
+  - guidAnimClip: 9b74206531add4314968994bef742f1b
+    guidTexture: 32e3047fa0079454ba89d601de2ab7e4
+  - guidAnimClip: 0237684abcf834930887579f256e308b
+    guidTexture: be5529be833614b9fa9ee140dd74ef78
+  - guidAnimClip: 2d76fc23937794ef1aa963c0d6d1c765
+    guidTexture: c003460e52c244525af6b2820ba57277
+  - guidAnimClip: 2d76fc23937794ef1aa963c0d6d1c765
+    guidTexture: 4dc79e22525cb4654966cedbae2b4321
+  - guidAnimClip: 2d76fc23937794ef1aa963c0d6d1c765
+    guidTexture: 8923caa8c1fba44158d078e45315c2c5
+  - guidAnimClip: 2d76fc23937794ef1aa963c0d6d1c765
+    guidTexture: 4b3dc7df80e254f95a088f1f13b0c389
+  - guidAnimClip: 2d76fc23937794ef1aa963c0d6d1c765
+    guidTexture: cd9731b866d074c00a24349493fb71cf
+  - guidAnimClip: 81577b89803d8428b83a3a1afa94e42e
+    guidTexture: 1c01634a9e8534b4c905bf414d5e2592
+  showData: 1
+  showTable: 1

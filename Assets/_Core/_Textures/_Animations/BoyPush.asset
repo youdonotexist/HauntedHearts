@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: fc7e907ef66f24e6d9c1ac75d844e28d, type: 3}
+  m_Name: BoyPush
+  wrapMode: 4
+  stopAction: 0
+  length: .833333373
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 1975ddf5c15f14d83894d17d068d6acc
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 7
+  - textureGUID: a9618cfa5a6b84cedbe56aea8af8ab8f
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 8
+  - textureGUID: 16a5d9807d3fa40cc8fa54e596c0f609
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 9
+  - textureGUID: 99fb53572d6fa4a9b8d46186dadbcc69
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 10
+  - textureGUID: b5a8aecbe07d749698f4ae778e635731
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 11
+  eventInfos: []
+  speed: 3
+  editorPreviewSize: 256
+  editorScale: .846647322
+  editorOffset: 0
+  editorSpeed: 1
+  editorNeedRebuild: 0

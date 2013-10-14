@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: fc7e907ef66f24e6d9c1ac75d844e28d, type: 3}
+  m_Name: GhostWalk
+  wrapMode: 4
+  stopAction: 0
+  length: .666666687
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 4f5ef621e845540a1beb67b55860296e
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 24
+  - textureGUID: 873a38475a94c472fab3e9d2780a212d
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 25
+  - textureGUID: 9a9ce50846e1a4f7197065297448b6d4
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 26
+  - textureGUID: 0c41e902703dc47abae30388714b7bf2
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 27
+  eventInfos: []
+  speed: 3
+  editorPreviewSize: 256
+  editorScale: .949574828
+  editorOffset: 0
+  editorSpeed: 3
+  editorNeedRebuild: 0

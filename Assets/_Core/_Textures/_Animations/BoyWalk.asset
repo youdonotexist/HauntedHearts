@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 49051723, guid: fc7e907ef66f24e6d9c1ac75d844e28d, type: 3}
+  m_Name: BoyWalk
+  wrapMode: 4
+  stopAction: 0
+  length: .666666687
+  sampleRate_: 60
+  frameInfos:
+  - textureGUID: 87bb0bec890a34003aded4f0ceab2e70
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 13
+  - textureGUID: d84f3f60f51244350ab0ff19af9a0f54
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 14
+  - textureGUID: f09a7d62a5d424b46a9a2fd669d8af13
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 15
+  - textureGUID: 7c07d9bf462ad48859916f2397e1eba2
+    length: .166666672
+    atlas: {fileID: 11400000, guid: 18a2d004ec6954e1981b430130449128, type: 2}
+    index: 16
+  eventInfos: []
+  speed: 3
+  editorPreviewSize: 256
+  editorScale: .728457868
+  editorOffset: 0
+  editorSpeed: 3
+  editorNeedRebuild: 0

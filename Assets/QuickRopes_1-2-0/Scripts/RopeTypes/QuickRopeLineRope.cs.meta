@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0f8961f0d6e9df7429131896c1e3b813
+labels:
+- tool
+- toy
+- component
+- ropes
+- rope
+- physics
+- quickrope
+- quickropes
+- chain
+- chains
+- line
+- crane
+- mesh
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

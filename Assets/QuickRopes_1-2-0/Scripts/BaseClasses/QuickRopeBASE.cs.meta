@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 62dbc0fb2548e9f4faa6d2ba76302ed6
+labels:
+- line
+- physics
+- crane
+- chain
+- rope
+- quickrope
+- mesh
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

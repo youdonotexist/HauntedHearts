@@ -1,0 +1,543 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: fc7e907ef66f24e6d9c1ac75d844e28d, type: 3}
+  m_Name: SpriteAsset
+  elements:
+  - name: boy_body
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 315
+      y: 132
+      width: 397
+      height: 861
+    coords:
+      serializedVersion: 2
+      x: .315185547
+      y: .789306641
+      width: .0969238281
+      height: .210205078
+    rotated: 0
+  - name: boy_climb_1
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 243
+      y: 130
+      width: 471
+      height: 842
+    coords:
+      serializedVersion: 2
+      x: .212158203
+      y: .581787109
+      width: .114990234
+      height: .205566406
+    rotated: 0
+  - name: boy_climb_2
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 243
+      y: 130
+      width: 482
+      height: 834
+    coords:
+      serializedVersion: 2
+      x: .686767578
+      y: .583740234
+      width: .117675781
+      height: .203613281
+    rotated: 0
+  - name: boy_climb_3
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 243
+      y: 130
+      width: 483
+      height: 840
+    coords:
+      serializedVersion: 2
+      x: .327636719
+      y: .582275391
+      width: .117919922
+      height: .205078125
+    rotated: 0
+  - name: boy_climb_4
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 243
+      y: 130
+      width: 487
+      height: 846
+    coords:
+      serializedVersion: 2
+      x: .0927734375
+      y: .580810547
+      width: .118896484
+      height: .206542969
+    rotated: 0
+  - name: boy_climb_5
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 243
+      y: 130
+      width: 489
+      height: 867
+    coords:
+      serializedVersion: 2
+      x: .00048828125
+      y: .787841797
+      width: .119384766
+      height: .211669922
+    rotated: 0
+  - name: boy_push_1
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 345
+      y: 132
+      width: 470
+      height: 849
+    coords:
+      serializedVersion: 2
+      x: .527832031
+      y: .792236328
+      width: .114746094
+      height: .207275391
+    rotated: 0
+  - name: boy_push_2
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 358
+      y: 161
+      width: 530
+      height: 813
+    coords:
+      serializedVersion: 2
+      x: .808349609
+      y: .179199219
+      width: .129394531
+      height: .198486328
+    rotated: 0
+  - name: boy_push_3
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 358
+      y: 158
+      width: 530
+      height: 828
+    coords:
+      serializedVersion: 2
+      x: .251953125
+      y: .378173828
+      width: .129394531
+      height: .202148438
+    rotated: 0
+  - name: boy_push_4
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 361
+      y: 163
+      width: 530
+      height: 821
+    coords:
+      serializedVersion: 2
+      x: .548583984
+      y: .177246094
+      width: .129394531
+      height: .200439453
+    rotated: 0
+  - name: boy_push_5
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 344
+      y: 163
+      width: 547
+      height: 823
+    coords:
+      serializedVersion: 2
+      x: .759521484
+      y: .379394531
+      width: .133544922
+      height: .200927734
+    rotated: 0
+  - name: boy_push_6
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 311
+      y: 163
+      width: 580
+      height: 822
+    coords:
+      serializedVersion: 2
+      x: .134521484
+      y: .177001953
+      width: .141601562
+      height: .200683594
+    rotated: 0
+  - name: boy_stand
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 315
+      y: 132
+      width: 397
+      height: 861
+    coords:
+      serializedVersion: 2
+      x: .217773438
+      y: .789306641
+      width: .0969238281
+      height: .210205078
+    rotated: 0
+  - name: boy_walk_1
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 315
+      y: 143
+      width: 379
+      height: 833
+    coords:
+      serializedVersion: 2
+      x: .804931641
+      y: .583984375
+      width: .0925292969
+      height: .203369141
+    rotated: 0
+  - name: boy_walk_2
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 315
+      y: 137
+      width: 376
+      height: 846
+    coords:
+      serializedVersion: 2
+      x: .754638672
+      y: .79296875
+      width: .091796875
+      height: .206542969
+    rotated: 0
+  - name: boy_walk_3
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 282
+      y: 137
+      width: 455
+      height: 846
+    coords:
+      serializedVersion: 2
+      x: .643066406
+      y: .79296875
+      width: .111083984
+      height: .206542969
+    rotated: 0
+  - name: boy_walk_4
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 267
+      y: 143
+      width: 491
+      height: 838
+    coords:
+      serializedVersion: 2
+      x: .446044922
+      y: .582763672
+      width: .119873047
+      height: .204589844
+    rotated: 0
+  - name: ghost_push_1
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 345
+      y: 132
+      width: 470
+      height: 849
+    coords:
+      serializedVersion: 2
+      x: .412597656
+      y: .792236328
+      width: .114746094
+      height: .207275391
+    rotated: 0
+  - name: ghost_push_2
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 358
+      y: 161
+      width: 530
+      height: 813
+    coords:
+      serializedVersion: 2
+      x: .678466797
+      y: .179199219
+      width: .129394531
+      height: .198486328
+    rotated: 0
+  - name: ghost_push_3
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 358
+      y: 158
+      width: 530
+      height: 828
+    coords:
+      serializedVersion: 2
+      x: .122070312
+      y: .378173828
+      width: .129394531
+      height: .202148438
+    rotated: 0
+  - name: ghost_push_4
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 361
+      y: 163
+      width: 530
+      height: 821
+    coords:
+      serializedVersion: 2
+      x: .418701172
+      y: .177246094
+      width: .129394531
+      height: .200439453
+    rotated: 0
+  - name: ghost_push_5
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 344
+      y: 163
+      width: 547
+      height: 823
+    coords:
+      serializedVersion: 2
+      x: .00048828125
+      y: .176757812
+      width: .133544922
+      height: .200927734
+    rotated: 0
+  - name: ghost_push_6
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 311
+      y: 163
+      width: 580
+      height: 822
+    coords:
+      serializedVersion: 2
+      x: .276611328
+      y: .177001953
+      width: .141601562
+      height: .200683594
+    rotated: 0
+  - name: ghost_stand
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 315
+      y: 132
+      width: 397
+      height: 861
+    coords:
+      serializedVersion: 2
+      x: .120361328
+      y: .789306641
+      width: .0969238281
+      height: .210205078
+    rotated: 0
+  - name: ghost_walk_1
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 315
+      y: 143
+      width: 379
+      height: 833
+    coords:
+      serializedVersion: 2
+      x: .897949219
+      y: .583984375
+      width: .0925292969
+      height: .203369141
+    rotated: 0
+  - name: ghost_walk_2
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 315
+      y: 137
+      width: 376
+      height: 846
+    coords:
+      serializedVersion: 2
+      x: .00048828125
+      y: .580810547
+      width: .091796875
+      height: .206542969
+    rotated: 0
+  - name: ghost_walk_3
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 282
+      y: 137
+      width: 455
+      height: 846
+    coords:
+      serializedVersion: 2
+      x: .846923828
+      y: .79296875
+      width: .111083984
+      height: .206542969
+    rotated: 0
+  - name: ghost_walk_4
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 267
+      y: 143
+      width: 491
+      height: 838
+    coords:
+      serializedVersion: 2
+      x: .56640625
+      y: .582763672
+      width: .119873047
+      height: .204589844
+    rotated: 0
+  - name: girl_giggle_1
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 289
+      y: 159
+      width: 508
+      height: 824
+    coords:
+      serializedVersion: 2
+      x: .635009766
+      y: .379150391
+      width: .124023438
+      height: .201171875
+    rotated: 0
+  - name: girl_giggle_2
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 280
+      y: 158
+      width: 512
+      height: 825
+    coords:
+      serializedVersion: 2
+      x: .509521484
+      y: .37890625
+      width: .125
+      height: .201416016
+    rotated: 0
+  - name: girl_giggle_3
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 266
+      y: 156
+      width: 521
+      height: 827
+    coords:
+      serializedVersion: 2
+      x: .381835938
+      y: .378417969
+      width: .127197266
+      height: .201904297
+    rotated: 0
+  - name: girl_stand
+    originalWidth: 1024
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 289
+      y: 155
+      width: 496
+      height: 828
+    coords:
+      serializedVersion: 2
+      x: .00048828125
+      y: .378173828
+      width: .12109375
+      height: .202148438
+    rotated: 0
+  - name: rope
+    originalWidth: 64
+    originalHeight: 128
+    trimRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 64
+      height: 128
+    coords:
+      serializedVersion: 2
+      x: .958496094
+      y: .968261719
+      width: .015625
+      height: .03125
+    rotated: 0
+  material: {fileID: 2100000, guid: 251df1777bd194694af49585092c1055, type: 2}
+  texture: {fileID: 2800000, guid: b697f60127c35468e9d8b467f89b5483, type: 3}

@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1155214310, guid: fc7e907ef66f24e6d9c1ac75d844e28d, type: 3}
+  m_Name: Interactables
+  elements:
+  - name: balcony
+    originalWidth: 1024
+    originalHeight: 330
+    trimRect:
+      serializedVersion: 2
+      x: 4
+      y: 17
+      width: 1020
+      height: 302
+    coords:
+      serializedVersion: 2
+      x: .633056641
+      y: .323974609
+      width: .249023438
+      height: .0737304688
+    rotated: 0
+  - name: bookshelf
+    originalWidth: 562
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 8
+      y: 12
+      width: 541
+      height: 999
+    coords:
+      serializedVersion: 2
+      x: .151123047
+      y: .400390625
+      width: .132080078
+      height: .243896484
+    rotated: 0
+  - name: chair
+    originalWidth: 621
+    originalHeight: 846
+    trimRect:
+      serializedVersion: 2
+      x: 24
+      y: 12
+      width: 585
+      height: 822
+    coords:
+      serializedVersion: 2
+      x: .844726562
+      y: .443603516
+      width: .142822266
+      height: .200683594
+    rotated: 0
+  - name: chandelier
+    originalWidth: 1024
+    originalHeight: 703
+    trimRect:
+      serializedVersion: 2
+      x: 7
+      y: 10
+      width: 1009
+      height: 687
+    coords:
+      serializedVersion: 2
+      x: .198242188
+      y: .229980469
+      width: .246337891
+      height: .167724609
+    rotated: 0
+  - name: crate
+    originalWidth: 820
+    originalHeight: 712
+    trimRect:
+      serializedVersion: 2
+      x: 6
+      y: 6
+      width: 808
+      height: 701
+    coords:
+      serializedVersion: 2
+      x: .00048828125
+      y: .2265625
+      width: .197265625
+      height: .171142578
+    rotated: 0
+  - name: door1
+    originalWidth: 149
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 12
+      y: 10
+      width: 121
+      height: 1006
+    coords:
+      serializedVersion: 2
+      x: .936767578
+      y: .75390625
+      width: .0295410156
+      height: .245605469
+    rotated: 0
+  - name: door2
+    originalWidth: 251
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 19
+      y: 7
+      width: 218
+      height: 1000
+    coords:
+      serializedVersion: 2
+      x: .0974121094
+      y: .400146484
+      width: .0532226562
+      height: .244140625
+    rotated: 0
+  - name: door3
+    originalWidth: 420
+    originalHeight: 1024
+    trimRect:
+      serializedVersion: 2
+      x: 17
+      y: 6
+      width: 395
+      height: 1008
+    coords:
+      serializedVersion: 2
+      x: .00048828125
+      y: .398193359
+      width: .0964355469
+      height: .24609375
+    rotated: 0
+  - name: fulcrum2
+    originalWidth: 824
+    originalHeight: 532
+    trimRect:
+      serializedVersion: 2
+      x: 26
+      y: 26
+      width: 768
+      height: 482
+    coords:
+      serializedVersion: 2
+      x: .445068359
+      y: .280029297
+      width: .1875
+      height: .117675781
+    rotated: 0
+  - name: heart_desat
+    originalWidth: 220
+    originalHeight: 220
+    trimRect:
+      serializedVersion: 2
+      x: 11
+      y: 20
+      width: 198
+      height: 180
+    coords:
+      serializedVersion: 2
+      x: .936767578
+      y: .709472656
+      width: .0483398438
+      height: .0439453125
+    rotated: 0
+  - name: rope
+    originalWidth: 76
+    originalHeight: 584
+    trimRect:
+      serializedVersion: 2
+      x: 3
+      y: 4
+      width: 64
+      height: 574
+    coords:
+      serializedVersion: 2
+      x: .966796875
+      y: .859375
+      width: .015625
+      height: .140136719
+    rotated: 0
+  - name: stair_chunk2
+    originalWidth: 1664
+    originalHeight: 1308
+    trimRect:
+      serializedVersion: 2
+      x: 47
+      y: 38
+      width: 1579
+      height: 1233
+    coords:
+      serializedVersion: 2
+      x: .55078125
+      y: .698486328
+      width: .385498047
+      height: .301025391
+    rotated: 0
+  - name: stairs_top2
+    originalWidth: 2412
+    originalHeight: 1026
+    trimRect:
+      serializedVersion: 2
+      x: 40
+      y: 54
+      width: 2296
+      height: 938
+    coords:
+      serializedVersion: 2
+      x: .283691406
+      y: .415283203
+      width: .560546875
+      height: .229003906
+    rotated: 0
+  - name: stairs2
+    originalWidth: 2338
+    originalHeight: 1532
+    trimRect:
+      serializedVersion: 2
+      x: 51
+      y: 40
+      width: 2252
+      height: 1453
+    coords:
+      serializedVersion: 2
+      x: .00048828125
+      y: .644775391
+      width: .549804688
+      height: .354736328
+    rotated: 0
+  material: {fileID: 2100000, guid: af6c525c74f9040718918520b4e1d7b0, type: 2}
+  texture: {fileID: 2800000, guid: d571f1f5151214b008b4b4823e54eaf4, type: 3}
